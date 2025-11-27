@@ -75,7 +75,7 @@ This script embeds the last year of articles using the **nomic-embed-text** mode
 * Reads partial embeddings if they exist
 * Embeds only missing rows
 * Saves progress after every batch
-* Outputs a final `news_with_embeddings_1yr.parquet` file
+* Outputs a final `news_with_embeddings_1yr.parquet` file with 5479 articles.
 
 ---
 
@@ -105,7 +105,7 @@ This notebook performs a **full exploratory analysis** on the embeddings and ext
 
 **File:** `app.py`
 
-![Streamlit App](images/news_article_webapp.png)
+![Streamlit Dashboard](images/news_article_webapp.png)
 
 The Streamlit app provides an **interactive interface** for exploring news clusters, similar stories, and trends over time. Key features:
 
