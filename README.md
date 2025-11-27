@@ -107,6 +107,8 @@ This notebook performs a **full exploratory analysis** on the embeddings and ext
 
 ![Streamlit Dashboard](images/news_article_webapp.png)
 
+[Open the News Explorer Streamlit App](https://newsarticledashboardjaheemedwards.streamlit.app/)
+
 The Streamlit app provides an **interactive interface** for exploring news clusters, similar stories, and trends over time. Key features:
 
 * **Home Tab** – Welcome screen with a dashboard title and image.
