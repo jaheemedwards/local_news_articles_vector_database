@@ -1,7 +1,3 @@
-Here’s an updated README version with a section explaining the **Streamlit dashboard**, integrated with your existing structure:
-
----
-
 # Vector Database Pipeline
 
 This repository contains all the code, notebooks, and scripts used to scrape, clean, embed, and analyze news articles for storage inside a PostgreSQL vector database. It also includes a **Streamlit dashboard** for interactive exploration of clusters, trends, and similar articles.
